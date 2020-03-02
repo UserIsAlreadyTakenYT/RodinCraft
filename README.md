@@ -1,8 +1,12 @@
 # RodinCraft
-### Computer benötigt:
-- 1 Maus (2 wären beser)
-- 5 Tastaturen
-- 10 Bildschrime
-- 100GB Spiecher
-- 50TB RAM
-- 100 Computers
+### Dieses Spiel hat:
+- Über 500 Blöcke
+- Elementar Blöcke
+- Shop und mehr
+- Mehrspieler und PVP Hosting
+
+## Preise:
+
+### DEMO: 0€
+## VOLLVERSION: 2€
+# SPEZIAL-VERSION: 5€
