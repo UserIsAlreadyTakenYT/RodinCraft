@@ -7,6 +7,6 @@
 
 ## Preise:
 
-### DEMO: 0€
-## VOLLVERSION: 2€
-# SPEZIAL-VERSION: 5€
+#### DEMO: 0€
+### VOLLVERSION: 2€
+## SPEZIAL-VERSION: 5€
